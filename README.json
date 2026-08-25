@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T22:47:08Z",
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45351
+            "stars": 45359
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 622424201,
             "language": "Python",
-            "last_commit": "2026-08-25T02:53:43Z",
+            "last_commit": "2026-08-25T06:10:42Z",
             "owner": "ikaijua",
             "repo": "Awesome-AITools",
-            "stars": 6150
+            "stars": 6151
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16123
+            "stars": 16126
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-19T09:53:58Z",
             "owner": "mahonzhan",
             "repo": "awesome-coding-plan",
-            "stars": 2734
+            "stars": 2735
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-02-23T16:27:47Z",
             "owner": "deepseek-ai",
             "repo": "awesome-deepseek-integration",
-            "stars": 38952
+            "stars": 38954
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74147
+            "stars": 74148
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-07-03T14:10:38Z",
             "owner": "awesome-opencode",
             "repo": "awesome-opencode",
-            "stars": 9889
+            "stars": 9892
           }
         },
         {
@@ -657,7 +657,7 @@
                 "last_commit": "2025-07-25T02:24:35Z",
                 "owner": "HuaizhengZhang",
                 "repo": "AI-Infra-from-Zero-to-Hero",
-                "stars": 4301
+                "stars": 4302
               }
             }
           ],
@@ -1004,7 +1004,7 @@
                 "last_commit": "2026-03-28T08:28:51Z",
                 "owner": "jim-schwoebel",
                 "repo": "awesome_ai_agents",
-                "stars": 1951
+                "stars": 1952
               }
             },
             {
@@ -1034,7 +1034,7 @@
                 "last_commit": "2026-04-05T20:39:24Z",
                 "owner": "heilcheng",
                 "repo": "awesome-agent-skills",
-                "stars": 6136
+                "stars": 6138
               }
             },
             {
@@ -1064,7 +1064,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73185
+                "stars": 73191
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "last_commit": "2026-04-28T19:30:24Z",
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 14804
+                "stars": 14806
               }
             },
             {
@@ -1109,7 +1109,7 @@
                 "last_commit": "2026-08-24T06:19:36Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 31955
+                "stars": 32037
               }
             },
             {
@@ -1139,7 +1139,7 @@
                 "last_commit": "2026-08-23T08:45:20Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-openclaw-skills",
-                "stars": 52161
+                "stars": 52163
               }
             },
             {
@@ -1154,7 +1154,7 @@
                 "last_commit": "2026-03-24T14:54:56Z",
                 "owner": "hesamsheikh",
                 "repo": "awesome-openclaw-usecases",
-                "stars": 31673
+                "stars": 31672
               }
             },
             {
@@ -1169,7 +1169,7 @@
                 "last_commit": "2026-02-25T06:43:50Z",
                 "owner": "StarCycle",
                 "repo": "Awesome-Embodied-AI-Job",
-                "stars": 1462
+                "stars": 1463
               }
             },
             {
@@ -1199,7 +1199,7 @@
                 "last_commit": "2026-08-19T07:27:55Z",
                 "owner": "walkinglabs",
                 "repo": "awesome-harness-engineering",
-                "stars": 3920
+                "stars": 3922
               }
             },
             {
@@ -1211,10 +1211,10 @@
                 "archived": false,
                 "id": 1189234446,
                 "language": null,
-                "last_commit": "2026-08-16T14:50:13Z",
+                "last_commit": "2026-08-25T05:49:41Z",
                 "owner": "0xNyk",
                 "repo": "awesome-hermes-agent",
-                "stars": 5434
+                "stars": 5437
               }
             },
             {
@@ -1229,7 +1229,7 @@
                 "last_commit": "2026-06-07T18:57:48Z",
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-clients",
-                "stars": 6553
+                "stars": 6554
               }
             },
             {
@@ -1244,7 +1244,7 @@
                 "last_commit": "2026-08-17T21:28:42Z",
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-servers",
-                "stars": 92755
+                "stars": 92764
               }
             },
             {
@@ -1385,7 +1385,7 @@
                 "last_commit": "2026-08-25T00:37:41Z",
                 "owner": "YouMind-OpenLab",
                 "repo": "awesome-gpt-image-2",
-                "stars": 9428
+                "stars": 9432
               }
             },
             {
@@ -1844,10 +1844,10 @@
                 "archived": false,
                 "id": 574523116,
                 "language": "HTML",
-                "last_commit": "2026-08-24T03:24:40Z",
+                "last_commit": "2026-08-25T03:21:48Z",
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 167865
+                "stars": 167871
               }
             },
             {
@@ -1862,7 +1862,7 @@
                 "last_commit": "2026-04-28T10:52:14Z",
                 "owner": "PlexPt",
                 "repo": "awesome-chatgpt-prompts-zh",
-                "stars": 61790
+                "stars": 61794
               }
             },
             {
@@ -1877,7 +1877,7 @@
                 "last_commit": "2026-08-21T15:24:17Z",
                 "owner": "taishi-i",
                 "repo": "awesome-ChatGPT-repositories",
-                "stars": 3211
+                "stars": 3212
               }
             },
             {
@@ -1892,7 +1892,7 @@
                 "last_commit": "2026-05-10T05:03:06Z",
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22752
+                "stars": 22751
               }
             },
             {
@@ -2027,7 +2027,7 @@
                 "last_commit": "2026-08-24T14:59:19Z",
                 "owner": "ai-boost",
                 "repo": "awesome-prompts",
-                "stars": 8758
+                "stars": 8759
               }
             },
             {
@@ -2057,7 +2057,7 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27281
+                "stars": 27282
               }
             },
             {
@@ -2102,7 +2102,7 @@
                 "last_commit": "2026-08-22T04:01:54Z",
                 "owner": "Shubhamsaboo",
                 "repo": "awesome-llm-apps",
-                "stars": 133955
+                "stars": 133972
               }
             },
             {
@@ -2207,7 +2207,7 @@
                 "last_commit": "2026-07-09T14:58:23Z",
                 "owner": "Danielskry",
                 "repo": "Awesome-RAG",
-                "stars": 1345
+                "stars": 1346
               }
             },
             {
@@ -2234,10 +2234,10 @@
                 "archived": false,
                 "id": 788768107,
                 "language": null,
-                "last_commit": "2026-08-14T15:54:28Z",
+                "last_commit": "2026-08-25T04:54:43Z",
                 "owner": "WangRongsheng",
                 "repo": "awesome-LLM-resources",
-                "stars": 8868
+                "stars": 8869
               }
             },
             {
@@ -2386,7 +2386,7 @@
                 "last_commit": "2026-05-07T14:14:37Z",
                 "owner": "Jack-bo1220",
                 "repo": "Awesome-Remote-Sensing-Foundation-Models",
-                "stars": 1926
+                "stars": 1927
               }
             }
           ],
@@ -2687,7 +2687,7 @@
             "last_commit": "2024-03-31T09:18:04Z",
             "owner": "luban-agi",
             "repo": "Awesome-AIGC-Tutorials",
-            "stars": 4535
+            "stars": 4534
           }
         },
         {
@@ -2702,7 +2702,7 @@
             "last_commit": "2026-08-19T22:05:37Z",
             "owner": "aishwaryanr",
             "repo": "awesome-generative-ai-guide",
-            "stars": 28884
+            "stars": 28885
           }
         },
         {
@@ -2791,7 +2791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:10:58.079Z",
+    "last_updated": "2026-08-25T06:24:50.485Z",
     "original_repository": "zhimin-z/awesome-awesome-artificial-intelligence",
     "original_repository_id": 613928000,
     "original_repository_sha": "676d7f7ef9f466faf05ea504eacf801b7560d01a",
