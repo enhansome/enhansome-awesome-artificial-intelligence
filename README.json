@@ -15,11 +15,11 @@
             "id": 1134426800,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T08:59:53Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-20T09:31:08Z",
+            "open_issues": 18,
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 49976,
+            "stars": 50020,
             "topics": [
               "agent-skills",
               "agentic-skills",
@@ -99,11 +99,11 @@
             "id": 622424201,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-15T11:15:23Z",
-            "open_issues": 74,
+            "last_commit": "2026-11-20T07:46:12Z",
+            "open_issues": 73,
             "owner": "ikaijua",
             "repo": "Awesome-AITools",
-            "stars": 6356,
+            "stars": 6362,
             "topics": [
               "agent-skills",
               "agents",
@@ -145,7 +145,7 @@
             "open_issues": 81,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16857,
+            "stars": 16859,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -178,7 +178,7 @@
             "open_issues": 14,
             "owner": "mahonzhan",
             "repo": "awesome-coding-plan",
-            "stars": 2956,
+            "stars": 2958,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:41.084Z"
@@ -199,7 +199,7 @@
             "open_issues": 211,
             "owner": "deepseek-ai",
             "repo": "awesome-deepseek-integration",
-            "stars": 39960,
+            "stars": 39968,
             "topics": [
               "awesome",
               "deepseek"
@@ -220,10 +220,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-05-26T12:28:00Z",
-            "open_issues": 92,
+            "open_issues": 91,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29212,
+            "stars": 29215,
             "topics": [
               "awesome",
               "awesome-list",
@@ -282,10 +282,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-12-18T07:31:25Z",
-            "open_issues": 430,
+            "open_issues": 432,
             "owner": "filipecalegario",
             "repo": "awesome-generative-ai",
-            "stars": 3576,
+            "stars": 3575,
             "topics": [
               "ai-art",
               "awesome",
@@ -322,10 +322,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-17T13:31:45Z",
-            "open_issues": 1440,
+            "open_issues": 1458,
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12846,
+            "stars": 12849,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -352,10 +352,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-12T19:27:12Z",
-            "open_issues": 35,
+            "open_issues": 37,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74850,
+            "stars": 74857,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:41.084Z"
@@ -376,7 +376,7 @@
             "open_issues": 34,
             "owner": "underlines",
             "repo": "awesome-ml",
-            "stars": 2732,
+            "stars": 2731,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:41.084Z"
@@ -394,10 +394,10 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-11-06T08:34:53Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "alvinreal",
             "repo": "awesome-opensource-ai",
-            "stars": 5051,
+            "stars": 5053,
             "topics": [
               "agents",
               "ai",
@@ -428,10 +428,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-11-13T11:55:29Z",
-            "open_issues": 41,
+            "open_issues": 44,
             "owner": "awesome-opencode",
             "repo": "awesome-opencode",
-            "stars": 11049,
+            "stars": 11059,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:41.084Z"
@@ -452,7 +452,7 @@
             "open_issues": 7,
             "owner": "NirantK",
             "repo": "awesome-project-ideas",
-            "stars": 9387,
+            "stars": 9390,
             "topics": [
               "awesome",
               "awesome-list",
@@ -484,7 +484,7 @@
             "open_issues": 12,
             "owner": "vaaaaanquish",
             "repo": "Awesome-Rust-MachineLearning",
-            "stars": 2264,
+            "stars": 2263,
             "topics": [
               "awasome",
               "deep-learning",
@@ -519,10 +519,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-11-16T17:36:59Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "EthicalML",
                 "repo": "awesome-artificial-intelligence-regulation",
-                "stars": 1487,
+                "stars": 1486,
                 "topics": [
                   "ai",
                   "ai-ethics",
@@ -559,7 +559,7 @@
                 "open_issues": 12,
                 "owner": "opendilab",
                 "repo": "awesome-RLHF",
-                "stars": 4440,
+                "stars": 4439,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -594,7 +594,7 @@
                 "open_issues": 2,
                 "owner": "D-X-Y",
                 "repo": "Awesome-AutoDL",
-                "stars": 2353,
+                "stars": 2352,
                 "topics": [
                   "autodl",
                   "automl",
@@ -623,7 +623,7 @@
                 "open_issues": 2,
                 "owner": "hibayesian",
                 "repo": "awesome-automl-papers",
-                "stars": 4167,
+                "stars": 4165,
                 "topics": [
                   "automated-feature-engineering",
                   "automl",
@@ -656,7 +656,7 @@
                 "open_issues": 5,
                 "owner": "merrymercy",
                 "repo": "awesome-tensor-compilers",
-                "stars": 2797,
+                "stars": 2796,
                 "topics": [
                   "code-generation",
                   "compiler",
@@ -692,7 +692,7 @@
                 "open_issues": 16,
                 "owner": "he-y",
                 "repo": "Awesome-Pruning",
-                "stars": 2497,
+                "stars": 2496,
                 "topics": [
                   "awesome-list",
                   "model-acceleration",
@@ -725,7 +725,7 @@
                 "open_issues": 3,
                 "owner": "wangyongjie-ntu",
                 "repo": "Awesome-explainable-AI",
-                "stars": 1661,
+                "stars": 1660,
                 "topics": [
                   "counterfactual-explanations",
                   "explainable-ai",
@@ -755,7 +755,7 @@
                 "open_issues": 0,
                 "owner": "AstraZeneca",
                 "repo": "awesome-explainable-graph-reasoning",
-                "stars": 1994,
+                "stars": 1993,
                 "topics": [
                   "awesome-list",
                   "deep-learning",
@@ -784,7 +784,7 @@
                 "open_issues": 8,
                 "owner": "JShollaj",
                 "repo": "awesome-llm-interpretability",
-                "stars": 1662,
+                "stars": 1661,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -808,7 +808,7 @@
                 "open_issues": 27,
                 "owner": "jphall663",
                 "repo": "awesome-machine-learning-interpretability",
-                "stars": 4088,
+                "stars": 4087,
                 "topics": [
                   "ai-safety",
                   "awesome",
@@ -857,7 +857,7 @@
                 "open_issues": 44,
                 "owner": "steven2358",
                 "repo": "awesome-blockchain-ai",
-                "stars": 1161,
+                "stars": 1160,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -884,7 +884,7 @@
                 "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2020,
+                "stars": 2019,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -926,7 +926,7 @@
                 "open_issues": 9,
                 "owner": "innovation-cat",
                 "repo": "Awesome-Federated-Machine-Learning",
-                "stars": 2103,
+                "stars": 2102,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -957,7 +957,7 @@
                 "open_issues": 0,
                 "owner": "yueliu1999",
                 "repo": "Awesome-Jailbreak-on-LLMs",
-                "stars": 2025,
+                "stars": 2031,
                 "topics": [
                   "ai",
                   "jailbreak",
@@ -988,7 +988,7 @@
                 "open_issues": 30,
                 "owner": "fr0gger",
                 "repo": "Awesome-GPT-Agents",
-                "stars": 6610,
+                "stars": 6608,
                 "topics": [
                   "agents",
                   "cybersecurity",
@@ -1011,10 +1011,10 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-07-12T12:25:53Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "ydyjya",
                 "repo": "Awesome-LLM-Safety",
-                "stars": 1922,
+                "stars": 1921,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -1032,7 +1032,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-20T01:27:47Z",
-                "open_issues": 309,
+                "open_issues": 313,
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
                 "stars": 1722,
@@ -1068,7 +1068,7 @@
                 "open_issues": 2,
                 "owner": "ZhiningLiu1998",
                 "repo": "awesome-imbalanced-learning",
-                "stars": 1532,
+                "stars": 1531,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1107,10 +1107,10 @@
                 "language": "Shell",
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-16T01:49:23Z",
-                "open_issues": 489,
+                "open_issues": 495,
                 "owner": "tensorchord",
                 "repo": "Awesome-LLMOps",
-                "stars": 5980,
+                "stars": 5978,
                 "topics": [
                   "ai-development-tools",
                   "awesome-list",
@@ -1157,7 +1157,7 @@
                 "open_issues": 51,
                 "owner": "visenger",
                 "repo": "awesome-mlops",
-                "stars": 14303,
+                "stars": 14304,
                 "topics": [
                   "ai",
                   "data-science",
@@ -1185,10 +1185,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-30T19:41:45Z",
-                "open_issues": 128,
+                "open_issues": 130,
                 "owner": "kelvins",
                 "repo": "awesome-mlops",
-                "stars": 5323,
+                "stars": 5322,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1218,7 +1218,7 @@
                 "open_issues": 44,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 21114,
+                "stars": 21117,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1301,7 +1301,7 @@
                 "open_issues": 1,
                 "owner": "nightrome",
                 "repo": "really-awesome-gan",
-                "stars": 3771,
+                "stars": 3770,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -1355,7 +1355,7 @@
                 "open_issues": 6,
                 "owner": "mintisan",
                 "repo": "awesome-kan",
-                "stars": 3294,
+                "stars": 3293,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -1383,7 +1383,7 @@
                 "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "awesome-graph-classification",
-                "stars": 4805,
+                "stars": 4804,
                 "topics": [
                   "attention-mechanism",
                   "classification-algorithm",
@@ -1425,7 +1425,7 @@
                 "open_issues": 7,
                 "owner": "XiaoxinHe",
                 "repo": "Awesome-Graph-LLM",
-                "stars": 2451,
+                "stars": 2450,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -1474,7 +1474,7 @@
                 "open_issues": 0,
                 "owner": "LirongWu",
                 "repo": "awesome-graph-self-supervised-learning",
-                "stars": 1434,
+                "stars": 1432,
                 "topics": [
                   "data-augmentation",
                   "deep-learning",
@@ -1506,7 +1506,7 @@
                 "open_issues": 47,
                 "owner": "totogo",
                 "repo": "awesome-knowledge-graph",
-                "stars": 1910,
+                "stars": 1909,
                 "topics": [
                   "awesome-list",
                   "graph",
@@ -1565,7 +1565,7 @@
                 "open_issues": 1,
                 "owner": "ChandlerBang",
                 "repo": "awesome-self-supervised-gnn",
-                "stars": 1728,
+                "stars": 1727,
                 "topics": [
                   "deep-learning",
                   "graph-mining",
@@ -1651,7 +1651,7 @@
                 "open_issues": 2,
                 "owner": "Kim-Hammar",
                 "repo": "awesome-rl-for-cybersecurity",
-                "stars": 1110,
+                "stars": 1109,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 2,
                 "owner": "asheeshcric",
                 "repo": "awesome-contrastive-self-supervised-learning",
-                "stars": 1311,
+                "stars": 1310,
                 "topics": [
                   "deep-learning",
                   "hacktoberfest-accepted",
@@ -1707,7 +1707,7 @@
                 "open_issues": 4,
                 "owner": "yaodongC",
                 "repo": "awesome-instruction-dataset",
-                "stars": 1154,
+                "stars": 1153,
                 "topics": [
                   "awsome-lists",
                   "datasets",
@@ -1794,7 +1794,7 @@
                 "open_issues": 2,
                 "owner": "yassouali",
                 "repo": "awesome-semi-supervised-learning",
-                "stars": 1854,
+                "stars": 1853,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1833,10 +1833,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-21T18:52:45Z",
-                "open_issues": 1336,
+                "open_issues": 1341,
                 "owner": "e2b-dev",
                 "repo": "awesome-ai-agents",
-                "stars": 30981,
+                "stars": 30998,
                 "topics": [
                   "agent",
                   "ai",
@@ -1868,10 +1868,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-28T08:28:51Z",
-                "open_issues": 305,
+                "open_issues": 303,
                 "owner": "jim-schwoebel",
                 "repo": "awesome_ai_agents",
-                "stars": 2029,
+                "stars": 2030,
                 "topics": [
                   "agent-based-modeling",
                   "agentic",
@@ -1935,11 +1935,11 @@
                 "id": 1124920990,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T01:42:59Z",
-                "open_issues": 377,
+                "last_commit": "2026-11-19T16:34:20Z",
+                "open_issues": 379,
                 "owner": "heilcheng",
                 "repo": "awesome-agent-skills",
-                "stars": 6409,
+                "stars": 6415,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1974,10 +1974,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-21T18:29:47Z",
-                "open_issues": 19,
+                "open_issues": 17,
                 "owner": "weitianxin",
                 "repo": "Awesome-Agentic-Reasoning",
-                "stars": 1434,
+                "stars": 1435,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -2006,7 +2006,7 @@
                 "open_issues": 1913,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 79853,
+                "stars": 79917,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -2042,7 +2042,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-11-05T04:02:31Z",
-                "open_issues": 634,
+                "open_issues": 639,
                 "owner": "composio-community",
                 "repo": "awesome-claude-plugins",
                 "stars": 2003,
@@ -2079,7 +2079,7 @@
                 "open_issues": 944,
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 15872,
+                "stars": 15881,
                 "topics": [
                   "agentic-coding",
                   "anthropic",
@@ -2109,10 +2109,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-11-15T18:23:24Z",
-                "open_issues": 33,
+                "open_issues": 36,
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 37340,
+                "stars": 37373,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -2143,10 +2143,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-11-04T11:24:53Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "mergisi",
                 "repo": "awesome-openclaw-agents",
-                "stars": 4076,
+                "stars": 4078,
                 "topics": [
                   "ai-agent-templates",
                   "ai-agents",
@@ -2188,7 +2188,7 @@
                 "open_issues": 15,
                 "owner": "VoltAgent",
                 "repo": "awesome-openclaw-skills",
-                "stars": 53857,
+                "stars": 53883,
                 "topics": [
                   "agent-skills",
                   "awesome",
@@ -2304,7 +2304,7 @@
                 "open_issues": 36,
                 "owner": "walkinglabs",
                 "repo": "awesome-harness-engineering",
-                "stars": 4757,
+                "stars": 4762,
                 "topics": [
                   "agent",
                   "agentic",
@@ -2336,10 +2336,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T14:12:42Z",
-                "open_issues": 276,
+                "open_issues": 281,
                 "owner": "0xNyk",
                 "repo": "awesome-hermes-agent",
-                "stars": 6046,
+                "stars": 6049,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -2368,10 +2368,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-06-07T18:57:48Z",
-                "open_issues": 188,
+                "open_issues": 191,
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-clients",
-                "stars": 6642,
+                "stars": 6643,
                 "topics": [
                   "clients",
                   "mcp"
@@ -2392,10 +2392,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-11-17T05:21:40Z",
-                "open_issues": 4794,
+                "open_issues": 4873,
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-servers",
-                "stars": 98199,
+                "stars": 98295,
                 "topics": [
                   "ai",
                   "mcp"
@@ -2419,7 +2419,7 @@
                 "open_issues": 75,
                 "owner": "hyp1231",
                 "repo": "awesome-llm-powered-agent",
-                "stars": 2260,
+                "stars": 2259,
                 "topics": [
                   "awesome-list",
                   "chatgpt",
@@ -2457,7 +2457,7 @@
                 "open_issues": 66,
                 "owner": "ANative-Lab",
                 "repo": "Awesome-Self-Evolving-Agents",
-                "stars": 2526,
+                "stars": 2527,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -2606,10 +2606,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2022-12-03T09:33:26Z",
-                "open_issues": 41,
+                "open_issues": 39,
                 "owner": "altryne",
                 "repo": "awesome-ai-art-image-synthesis",
-                "stars": 1822,
+                "stars": 1821,
                 "topics": [
                   "ai"
                 ]
@@ -2656,11 +2656,11 @@
                 "id": 1212562200,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T04:56:16Z",
+                "last_commit": "2026-11-20T04:46:04Z",
                 "open_issues": 3,
                 "owner": "YouMind-OpenLab",
                 "repo": "awesome-gpt-image-2",
-                "stars": 10312,
+                "stars": 10315,
                 "topics": [
                   "ai-image-generation",
                   "ai-prompts",
@@ -2698,7 +2698,7 @@
                 "open_issues": 2,
                 "owner": "weiaicunzai",
                 "repo": "awesome-image-classification",
-                "stars": 3073,
+                "stars": 3072,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2726,7 +2726,7 @@
                 "open_issues": 6,
                 "owner": "MarkMoHR",
                 "repo": "Awesome-Image-Colorization",
-                "stars": 1168,
+                "stars": 1167,
                 "topics": [
                   "automatic-colorization",
                   "color-palette",
@@ -2865,7 +2865,7 @@
                 "open_issues": 2,
                 "owner": "gary23ai",
                 "repo": "awesome_OpenSetRecognition_list",
-                "stars": 1212,
+                "stars": 1211,
                 "topics": [
                   "awesome-list",
                   "open-set",
@@ -2894,7 +2894,7 @@
                 "open_issues": 2,
                 "owner": "bismex",
                 "repo": "Awesome-person-re-identification",
-                "stars": 1371,
+                "stars": 1370,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2954,7 +2954,7 @@
                 "open_issues": 5,
                 "owner": "harlanhong",
                 "repo": "awesome-talking-head-generation",
-                "stars": 1947,
+                "stars": 1948,
                 "topics": [
                   "face-reenactment",
                   "image-animation",
@@ -3012,10 +3012,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-12T05:25:29Z",
-                "open_issues": 93,
+                "open_issues": 94,
                 "owner": "georgezouq",
                 "repo": "awesome-ai-in-finance",
-                "stars": 6773,
+                "stars": 6777,
                 "topics": [
                   "analysis",
                   "awesome",
@@ -3053,7 +3053,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-06T04:12:57Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "currentslab",
                 "repo": "awesome-vector-search",
                 "stars": 1596,
@@ -3095,7 +3095,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "awesome-ml4co",
-                "stars": 2178,
+                "stars": 2176,
                 "topics": [
                   "combinatorial-optimization",
                   "machine-learning",
@@ -3121,7 +3121,7 @@
                 "open_issues": 3,
                 "owner": "Zymrael",
                 "repo": "awesome-neural-ode",
-                "stars": 1552,
+                "stars": 1551,
                 "topics": [
                   "deep-learning",
                   "dynamical-modeling",
@@ -3159,7 +3159,7 @@
                 "open_issues": 1,
                 "owner": "luban-agi",
                 "repo": "Awesome-Domain-LLM",
-                "stars": 2580,
+                "stars": 2579,
                 "topics": [
                   "awesome-list",
                   "dataset",
@@ -3214,7 +3214,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18090,
+                "stars": 18091,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -3249,7 +3249,7 @@
                 "open_issues": 15,
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6961,
+                "stars": 6959,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -3315,7 +3315,7 @@
                 "open_issues": 162,
                 "owner": "humanloop",
                 "repo": "awesome-chatgpt",
-                "stars": 8209,
+                "stars": 8210,
                 "topics": [
                   "chatgpt",
                   "gpt-3",
@@ -3412,7 +3412,7 @@
                 "open_issues": 13,
                 "owner": "OpenMindClub",
                 "repo": "awesome-chatgpt",
-                "stars": 1954,
+                "stars": 1955,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3440,11 +3440,11 @@
                 "id": 602455110,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-19T08:08:49Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-20T07:53:14Z",
+                "open_issues": 39,
                 "owner": "awesome-gptX",
                 "repo": "awesome-gpt",
-                "stars": 1145,
+                "stars": 1144,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3477,7 +3477,7 @@
                 "open_issues": 18,
                 "owner": "eason-dev",
                 "repo": "awesome-chatgpt",
-                "stars": 731,
+                "stars": 732,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3528,11 +3528,11 @@
                 "id": 574523116,
                 "language": "MDX",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T07:07:20Z",
-                "open_issues": 93,
+                "last_commit": "2026-11-20T07:08:33Z",
+                "open_issues": 94,
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 177863,
+                "stars": 177930,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -3568,11 +3568,11 @@
                 "id": 622569125,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-17T13:04:16Z",
-                "open_issues": 110,
+                "last_commit": "2026-11-19T14:57:24Z",
+                "open_issues": 111,
                 "owner": "taishi-i",
                 "repo": "awesome-ChatGPT-repositories",
-                "stars": 3383,
+                "stars": 3382,
                 "topics": [
                   "agent",
                   "agent-skills",
@@ -3605,7 +3605,7 @@
                 "open_issues": 41,
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22786,
+                "stars": 22783,
                 "topics": [
                   "awesome-lists",
                   "chatglm",
@@ -3630,10 +3630,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-01-24T00:32:10Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "brianspiering",
                 "repo": "awesome-dl4nlp",
-                "stars": 1312,
+                "stars": 1311,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -3651,7 +3651,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-06-17T02:35:25Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "horseee",
                 "repo": "Awesome-Efficient-LLM",
                 "stars": 2053,
@@ -3684,7 +3684,7 @@
                 "open_issues": 130,
                 "owner": "LiLittleCat",
                 "repo": "awesome-free-chatgpt",
-                "stars": 21370,
+                "stars": 21372,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3712,7 +3712,7 @@
                 "open_issues": 32,
                 "owner": "formulahendry",
                 "repo": "awesome-gpt",
-                "stars": 1047,
+                "stars": 1046,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -3729,11 +3729,11 @@
                 "id": 716944423,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-19T07:12:22Z",
-                "open_issues": 82,
+                "last_commit": "2026-11-20T06:46:16Z",
+                "open_issues": 87,
                 "owner": "Anil-matcha",
                 "repo": "awesome-open-source-saas-alternatives",
-                "stars": 3489,
+                "stars": 3490,
                 "topics": [
                   "alternatives",
                   "auth0-alternative",
@@ -3775,7 +3775,7 @@
                 "open_issues": 11,
                 "owner": "devisasari",
                 "repo": "awesome-gpt-store",
-                "stars": 2120,
+                "stars": 2119,
                 "topics": [
                   "ai",
                   "awesome",
@@ -3875,11 +3875,11 @@
                 "id": 745546184,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T09:22:04Z",
+                "last_commit": "2026-11-20T08:32:12Z",
                 "open_issues": 0,
                 "owner": "ai-boost",
                 "repo": "awesome-prompts",
-                "stars": 9280,
+                "stars": 9289,
                 "topics": [
                   "agents",
                   "awesome",
@@ -3937,7 +3937,7 @@
                 "open_issues": 512,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27508,
+                "stars": 27511,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -3958,7 +3958,7 @@
                 "open_issues": 8,
                 "owner": "lmmlzn",
                 "repo": "Awesome-LLMs-Datasets",
-                "stars": 1484,
+                "stars": 1483,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -3979,7 +3979,7 @@
                 "open_issues": 18,
                 "owner": "wgwang",
                 "repo": "awesome-LLMs-In-China",
-                "stars": 6487,
+                "stars": 6486,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -3997,10 +3997,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T05:25:32Z",
-                "open_issues": 9,
+                "open_issues": 11,
                 "owner": "Shubhamsaboo",
                 "repo": "awesome-llm-apps",
-                "stars": 145050,
+                "stars": 145118,
                 "topics": [
                   "agents",
                   "llms",
@@ -4026,7 +4026,7 @@
                 "open_issues": 12,
                 "owner": "xlite-dev",
                 "repo": "Awesome-LLM-Inference",
-                "stars": 5565,
+                "stars": 5564,
                 "topics": [
                   "awesome-llm",
                   "deepseek",
@@ -4062,7 +4062,7 @@
                 "open_issues": 0,
                 "owner": "imaurer",
                 "repo": "awesome-llm-json",
-                "stars": 2172,
+                "stars": 2171,
                 "topics": [
                   "awesome-list",
                   "function-calling",
@@ -4090,7 +4090,7 @@
                 "open_issues": 5,
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2621,
+                "stars": 2618,
                 "topics": [
                   "awsome",
                   "chatgpt",
@@ -4121,7 +4121,7 @@
                 "open_issues": 0,
                 "owner": "Xnhyacinth",
                 "repo": "Awesome-LLM-Long-Context-Modeling",
-                "stars": 2193,
+                "stars": 2191,
                 "topics": [
                   "agent",
                   "awsome-list",
@@ -4157,10 +4157,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-16T05:41:13Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "jxzhangjhu",
                 "repo": "Awesome-LLM-RAG",
-                "stars": 1374,
+                "stars": 1372,
                 "topics": [
                   "embeddings",
                   "large-language-models",
@@ -4189,7 +4189,7 @@
                 "open_issues": 29,
                 "owner": "lizhe2004",
                 "repo": "Awesome-LLM-RAG-Application",
-                "stars": 1663,
+                "stars": 1662,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -4210,7 +4210,7 @@
                 "open_issues": 169,
                 "owner": "Danielskry",
                 "repo": "Awesome-RAG",
-                "stars": 1431,
+                "stars": 1429,
                 "topics": [
                   "artificial-intelligence",
                   "generative-ai",
@@ -4237,7 +4237,7 @@
                 "open_issues": 29,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3715,
+                "stars": 3713,
                 "topics": [
                   "awesome",
                   "chain-of-thought",
@@ -4274,10 +4274,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-14T14:18:17Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "WangRongsheng",
                 "repo": "awesome-LLM-resources",
-                "stars": 9099,
+                "stars": 9098,
                 "topics": [
                   "awesome-list",
                   "book",
@@ -4311,7 +4311,7 @@
                 "open_issues": 29,
                 "owner": "hijkzzz",
                 "repo": "Awesome-LLM-Strawberry",
-                "stars": 6898,
+                "stars": 6897,
                 "topics": [
                   "chain-of-thought",
                   "coding",
@@ -4341,7 +4341,7 @@
                 "open_issues": 5,
                 "owner": "lonePatient",
                 "repo": "awesome-pretrained-chinese-nlp-models",
-                "stars": 5620,
+                "stars": 5618,
                 "topics": [
                   "bert",
                   "chinese",
@@ -4376,11 +4376,11 @@
                 "id": 599716050,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T15:28:43Z",
+                "last_commit": "2026-11-19T15:35:29Z",
                 "open_issues": 143,
                 "owner": "promptslab",
                 "repo": "Awesome-Prompt-Engineering",
-                "stars": 6456,
+                "stars": 6455,
                 "topics": [
                   "chatgpt",
                   "chatgpt-api",
@@ -4455,7 +4455,7 @@
                 "open_issues": 8,
                 "owner": "nichtdax",
                 "repo": "awesome-totally-open-chatgpt",
-                "stars": 4815,
+                "stars": 4814,
                 "topics": [
                   "alternative",
                   "awesome",
@@ -4490,7 +4490,7 @@
                 "open_issues": 1,
                 "owner": "guyulongcs",
                 "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-                "stars": 2636,
+                "stars": 2635,
                 "topics": [
                   "advertising",
                   "ctr",
@@ -4520,7 +4520,7 @@
                 "open_issues": 5,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1567,
+                "stars": 1566,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -4550,7 +4550,7 @@
                 "open_issues": 7,
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2332,
+                "stars": 2331,
                 "topics": [
                   "awesome",
                   "datasets",
@@ -4613,7 +4613,7 @@
                 "open_issues": 13,
                 "owner": "GT-RIPL",
                 "repo": "Awesome-LLM-Robotics",
-                "stars": 4503,
+                "stars": 4502,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -4630,7 +4630,7 @@
                 "id": 881022384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-18T13:03:13Z",
+                "last_commit": "2026-11-19T13:10:10Z",
                 "open_issues": 1,
                 "owner": "YanjieZe",
                 "repo": "awesome-humanoid-robot-learning",
@@ -4706,7 +4706,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-02-13T01:40:21Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "mjyc",
                 "repo": "awesome-robotics-projects",
                 "stars": 1841,
@@ -4741,7 +4741,7 @@
                 "open_issues": 15,
                 "owner": "linjinjin123",
                 "repo": "awesome-AIOps",
-                "stars": 1754,
+                "stars": 1753,
                 "topics": [
                   "aiops",
                   "alarm-reduction",
@@ -4770,7 +4770,7 @@
                 "open_issues": 0,
                 "owner": "zwang4",
                 "repo": "awesome-machine-learning-in-compilers",
-                "stars": 1706,
+                "stars": 1705,
                 "topics": [
                   "artificial-intelligence",
                   "auto-tuning",
@@ -4810,7 +4810,7 @@
                 "open_issues": 5,
                 "owner": "cuge1995",
                 "repo": "awesome-time-series",
-                "stars": 1062,
+                "stars": 1061,
                 "topics": [
                   "series-forecasting",
                   "spatio-temporal",
@@ -4837,7 +4837,7 @@
                 "open_issues": 8,
                 "owner": "rob-med",
                 "repo": "awesome-TS-anomaly-detection",
-                "stars": 3166,
+                "stars": 3165,
                 "topics": [
                   "anomaly-detection",
                   "awesome-list",
@@ -4874,7 +4874,7 @@
                 "open_issues": 9,
                 "owner": "IDEA-Research",
                 "repo": "awesome-detection-transformer",
-                "stars": 1399,
+                "stars": 1398,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -4895,7 +4895,7 @@
                 "open_issues": 24,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5046,
+                "stars": 5045,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -4974,7 +4974,7 @@
                 "open_issues": 3,
                 "owner": "cedrickchee",
                 "repo": "awesome-transformer-nlp",
-                "stars": 1152,
+                "stars": 1151,
                 "topics": [
                   "attention-mechanism",
                   "awesome",
@@ -5013,7 +5013,7 @@
                 "open_issues": 4,
                 "owner": "dk-liang",
                 "repo": "Awesome-Visual-Transformer",
-                "stars": 3591,
+                "stars": 3590,
                 "topics": [
                   "detr",
                   "transformer",
@@ -5048,7 +5048,7 @@
                 "open_issues": 8,
                 "owner": "Chen-Cai-OSU",
                 "repo": "awesome-equivariant-network",
-                "stars": 1103,
+                "stars": 1102,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:41.084Z"
@@ -5113,7 +5113,7 @@
             "open_issues": 13,
             "owner": "luban-agi",
             "repo": "Awesome-AIGC-Tutorials",
-            "stars": 4572,
+            "stars": 4570,
             "topics": [
               "ai",
               "aigc",
@@ -5148,7 +5148,7 @@
             "open_issues": 8,
             "owner": "aishwaryanr",
             "repo": "awesome-generative-ai-guide",
-            "stars": 30331,
+            "stars": 30347,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5178,7 +5178,7 @@
             "open_issues": 5,
             "owner": "luspr",
             "repo": "awesome-ml-courses",
-            "stars": 3120,
+            "stars": 3119,
             "topics": [
               "ai-courses",
               "artificial-intelligence",
@@ -5201,11 +5201,11 @@
             "id": 1093529841,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-19T05:12:12Z",
+            "last_commit": "2026-11-20T04:59:26Z",
             "open_issues": 20,
             "owner": "ZeroLu",
             "repo": "awesome-nanobanana-pro",
-            "stars": 10405,
+            "stars": 10408,
             "topics": [
               "gemini",
               "nanobanana",
@@ -5235,7 +5235,7 @@
             "open_issues": 6,
             "owner": "awesome-mlss",
             "repo": "awesome-mlss",
-            "stars": 3036,
+            "stars": 3035,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -5269,7 +5269,7 @@
             "open_issues": 1,
             "owner": "dangkhoasdc",
             "repo": "awesome-ai-residency",
-            "stars": 3304,
+            "stars": 3302,
             "topics": [
               "artificial-intelligence",
               "awesome-list",
@@ -5296,7 +5296,7 @@
             "open_issues": 27,
             "owner": "business-science",
             "repo": "awesome-generative-ai-data-scientist",
-            "stars": 1604,
+            "stars": 1602,
             "topics": [
               "ai",
               "ai-engineer",
@@ -5318,7 +5318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:15:01.187Z",
+    "last_updated": "2026-11-20T09:57:51.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome curated lists of many topics related to artificial intelligence.",
